@@ -1,0 +1,11 @@
+{
+  "name": "meme-pad",
+  "version": "0.0.1",
+  "description": "A meme implementation of left pad, please do not use this for anything important, I am not responsible if production blows up and/or you get fired",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geanify",
+  "license": "UNLICENSED"
+}
